@@ -20,8 +20,7 @@ Frontend<br/>
 React <br/>
 JavaScript <br/>
 Styled-components <br/>
-HTML <br/>
-CSS <br/>
+
 <br/>
 <strong>Funcionalidad del Proyecto:</strong><br/>
 El proyecto "App Banco" es una aplicación frontend desarrollada con React que simula las funcionalidades básicas de un banco. Incluye las siguientes características:<br/>
